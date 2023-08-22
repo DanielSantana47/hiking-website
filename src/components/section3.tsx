@@ -10,7 +10,7 @@ export const Section3 = ()=> {
                     <Reveal>
                         <div className="flex items-center gap-4">
                             <div className="bg-yellow-400 rounded-full h-1 w-16"></div>
-                            <h2 className="text-yellow-400 font-semibold">WHERE YOU GO IS THE KE</h2>
+                            <h2 className="text-yellow-400 font-semibold">WHERE YOU GO IS THE KEY</h2>
                         </div>
                     </Reveal>
                     <Reveal>
