@@ -4,7 +4,7 @@ import { Reveal } from "./Reveal";
 
 export const Header = ()=> {
     return(
-        <header className="h-[120vh] w-screen bg-no-repeat bg-cover bg-fixed bg-bottom bg-[url(https://img.freepik.com/fotos-gratis/cordilheira-majestosa-reflete-cena-tranquila-na-agua-gerada-por-ia_188544-18340.jpg?w=1380&t=st=1692655816~exp=1692656416~hmac=80945bf9787ab82499ba62447fef92e5d3e74fbfa1427987f1445ca7c3f6f43a)]">
+        <header className="h-[120vh] w-screen bg-no-repeat bg-cover bg-fixed bg-bottom bg-[url(https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80)]">
             <div className="h-full px-3 md:px-8 w-full  bg-gradient-to-b from-transparent from-50% to-[#0b1d27] flex items-center">
                 <Menu/>
                 <div className="container mx-auto flex flex-col justify-center mb-24">
